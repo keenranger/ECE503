@@ -1,6 +1,6 @@
 # Project type
 
-For project type, I wllll apply techniques I have learned in the course to a real world problem. I think the best way to check progress is doing exercise based on the knowledge learned in class and known before. The concept of the project will be explained in next section.
+For project type, I'll apply techniques I have learned in the course to a real world problem. I think the best way to check progress is doing exercise based on the knowledge learned in class and known before. The concept of the project will be explained in next section.
 
 # Problem plan to address
 
